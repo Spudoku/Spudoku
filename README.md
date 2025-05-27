@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Spudoku
-- 👀 I’m interested in creating games
-- 🌱 I’m currently learning c++
+- 👀 I like making games, especially systems design
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have read at least 1000000 words in my lifetime!
 
